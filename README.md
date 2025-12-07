@@ -13,7 +13,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer
 - :student: I love competition a lot`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,
+- :thinking: I’m currently open for: a new `job opportunity`,
 - :nerd_face: Always `learning new things`
 
 
